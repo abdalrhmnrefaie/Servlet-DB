@@ -1,0 +1,7 @@
+0:0:0:0:0:0:0:1 - - [03/Feb/2024:00:41:10 +0200] "GET / HTTP/1.1" 200 1958 http-bio-8080-exec-1 469
+0:0:0:0:0:0:0:1 - - [03/Feb/2024:00:41:18 +0200] "POST /login HTTP/1.1" 200 3622 http-bio-8080-exec-3 5
+0:0:0:0:0:0:0:1 - - [03/Feb/2024:00:41:18 +0200] "GET /starter-template.css HTTP/1.1" 404 991 http-bio-8080-exec-2 4
+0:0:0:0:0:0:0:1 - - [03/Feb/2024:00:41:18 +0200] "GET /assets/css/ie10-viewport-bug-workaround.css HTTP/1.1" 404 1037 http-bio-8080-exec-4 4
+0:0:0:0:0:0:0:1 - - [03/Feb/2024:00:41:18 +0200] "GET /assets/js/ie10-viewport-bug-workaround.js HTTP/1.1" 404 1033 http-bio-8080-exec-5 2
+0:0:0:0:0:0:0:1 - - [03/Feb/2024:00:41:18 +0200] "GET /dist/js/bootstrap.min.js HTTP/1.1" 404 999 http-bio-8080-exec-6 14
+0:0:0:0:0:0:0:1 - - [03/Feb/2024:00:41:18 +0200] "GET /assets/js/ie-emulation-modes-warning.js HTTP/1.1" 404 1029 http-bio-8080-exec-7 6
